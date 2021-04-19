@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I'm currently working on .Net Core & Angular
-- 🌱 The project I'm currently working on is BBD Pattern Studio With Asp.Net Core 5.0 & Angular
+- 🔭 I'm currently working on .Net Core 5.0 & Angular
+<!-- - 🌱 The project I'm currently working on is BBD Pattern Studio With Asp.Net Core 5.0 & Angular -->
 - 💬 Ask me about Anything
 - 📫 How to reach me on e-mail:  ysfakkurt@hotmail.com
 - 📫 How to reach me on linked-in: <a href='https://www.linkedin.com/in/yusuf-akkurt-b89777207/'>Yusuf Akkurt</a>
