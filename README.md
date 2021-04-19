@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I'm currently working on .Net Core & Angular
-- ![fa-crown]:fa-cogs: The project I'm currently working on is BBD Pattern Studio With Asp.Net Core 5.0 & Angular
+- ![fa-crown] :fa-cog: The project I'm currently working on is BBD Pattern Studio With Asp.Net Core 5.0 & Angular
 - :fa-comment: Ask me about Anything
 - :fa-envelope: How to reach me on e-mail:  ysfakkurt@hotmail.com
 - :fa-linkedin: How to reach me on linked-in: <a href='https://www.linkedin.com/in/yusuf-akkurt-b89777207/'>Yusuf Akkurt</a>
