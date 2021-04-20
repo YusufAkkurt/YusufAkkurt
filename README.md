@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I'm currently working on .Net Core 5.0 & Angular
+- 🔭 I'm currently working on .Net Core & Angular
 - 💬 Ask me about Anything
 - 📫 How to reach me on e-mail:  ysfakkurt@hotmail.com
 - 📫 How to reach me on linked-in: <a href='https://www.linkedin.com/in/yusuf-akkurt-b89777207/'>Yusuf Akkurt</a>
